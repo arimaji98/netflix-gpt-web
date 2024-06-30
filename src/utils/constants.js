@@ -13,3 +13,5 @@ export const TMDB_API_KEY = {
       "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlM2M3NGZiYmM3NWRjYzQ1MTcyMjQ2NGZiN2FhOGI2ZCIsInN1YiI6IjY2NWI0MzRlNTQxYmE2MGVlMDQ3ZDYzYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ftwQREW65QoTQuYAnmkLVwGnj2qO_AmpPNjEWYeNIWs",
   },
 };
+
+export const CARD_IMG_CDN_URL = "https://image.tmdb.org/t/p/w500";

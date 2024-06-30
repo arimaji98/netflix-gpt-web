@@ -1,3 +1,35 @@
+# Project Roadmap
+- Header
+- Routing of App
+- Login Form
+- Sign Up Form
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create SignUp User Account
+- Implement Sign In user App
+- Created Redux Store with userSlices
+- Implemented Sign Out
+- Update Profile
+- BugFix: Sign up user displayName and profile picture update
+- BugFix: If the user is not logged in redirect "/browse" to Login Page and vice-versa
+- Unsubscribed to the onAuthStateChanged Callback
+- Add hardcoded values to the constants file
+- Register TMDB API and create an app and get access token
+- Get Data from TMDB now playing movies list API
+- Custom Hook for Now Playing Movies
+- Create movieSlice
+- Update Store with movies Data
+- Planning for MainContainer and SecondaryContainer
+- Fetch Data for Trailer Video
+- UPdate Store with Trailer Video Data
+- Embedded the Youtube video and make it autoplay and mute
+- Integrated Tailwind classes to make MainContainer look awesome
+- Build Secondary Component
+- Created Movie List and Movie Card Component
+- Created more custom hooks for different movie list
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
