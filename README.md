@@ -29,6 +29,9 @@
 - Build Secondary Component
 - Created Movie List and Movie Card Component
 - Created more custom hooks for different movie list
+- GPT Search Page
+- GPT Search Bar
+- Multi-language feature in GPT page
 
 # Getting Started with Create React App
 

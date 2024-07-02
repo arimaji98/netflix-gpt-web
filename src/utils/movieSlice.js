@@ -32,4 +32,5 @@ export const {
   addUpcomingMovies,
   addMovieTrailer,
 } = movieSlice.actions;
+
 export default movieSlice.reducer;
